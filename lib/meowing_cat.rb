@@ -9,4 +9,3 @@ end
 meow = Cat.new
 meow.meow = "meow"
 meow.meow
-
