@@ -4,3 +4,4 @@ end
 
 maru = Cat.new("meow!")
 maru.meow
+end
