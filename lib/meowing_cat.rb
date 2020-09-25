@@ -7,5 +7,5 @@ class Cat
 end
 
 meowing_cat = Cat.new
-cat.meow = "meow"
-cat.meow
+meowing_cat.meow = "meow"
+meowing_cat.meow
