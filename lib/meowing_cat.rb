@@ -1,11 +1,11 @@
 class Cat
   attr_accessor :name, :meow
 
-  def meow(meow)
+  def meowing_cat(meow)
     @meow
   end
 end
 
-meow = Cat.new
-meow.meow = "meow"
-meow.meow
+meowing_cat = Cat.new
+cat.meow = "meow"
+cat.meow
