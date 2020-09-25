@@ -4,5 +4,3 @@ end
 
 maru = Cat.new
 maru.name = "Maru"
-meow = Cat.new
-meow.maru = "meow!"
