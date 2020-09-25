@@ -2,6 +2,6 @@ class Cat
   attr_accessor :name, :meow
 end
 
-maru_meow = Cat.new
+maru = Cat.new
 maru.meow = "meow!"
 maru.meow
