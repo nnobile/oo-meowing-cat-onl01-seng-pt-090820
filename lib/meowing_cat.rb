@@ -4,5 +4,5 @@ end
 
 maru = Cat.new
 maru.name = "Maru"
-hiss = Cat.new
-hiss.meow = "meow!"
+maru_meow = Cat.new("meow!")
+maru_meow
